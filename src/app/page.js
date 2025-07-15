@@ -77,7 +77,7 @@ export default function Home() {
             >
               <div className="text-blue-600 text-4xl mb-4">💧</div>
               <h3 className="text-2xl font-semibold mb-4 text-gray-800">Sistemi Idraulici</h3>
-              <p className="text-gray-600">Progettazione e installazione di sistemi idraulici all'avanguardia per ogni esigenza industriale e residenziale.</p>
+              <p className="text-gray-600">Progettazione e installazione di sistemi idraulici all&#39;avanguardia per ogni esigenza industriale e residenziale.</p>
             </motion.div>
 
             {/* Thermal Systems */}

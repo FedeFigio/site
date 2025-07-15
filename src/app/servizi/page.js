@@ -81,7 +81,7 @@ export default function Servizi() {
             >
               <div className="text-yellow-600 text-4xl mb-4">⚡</div>
               <h3 className="text-2xl font-semibold mb-4 text-gray-800">Sistemi Elettrici</h3>
-              <p className="text-gray-600 mb-4">Impianti elettrici all'avanguardia per ogni esigenza:</p>
+              <p className="text-gray-600 mb-4">Impianti elettrici all&#39;avanguardia per ogni esigenza:</p>
               <ul className="text-gray-600 list-disc list-inside space-y-2">
                 <li>Installazioni civili</li>
                 <li>Impianti industriali</li>

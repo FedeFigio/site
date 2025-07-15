@@ -8,7 +8,7 @@ export default function ChiSiamo() {
           <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
             <h2 className="text-2xl font-semibold mb-4 text-gray-800">La Nostra Storia</h2>
             <p className="text-gray-600 mb-6">
-              SITE è nata dalla passione e dall'esperienza nel campo dei sistemi idraulici, termici ed elettrici.
+              SITE è nata dalla passione e dall&#39;esperienza nel campo dei sistemi idraulici, termici ed elettrici.
               Da anni ci dedichiamo a fornire soluzioni innovative e sostenibili per le esigenze dei nostri clienti.
             </p>
           </div>
@@ -38,7 +38,7 @@ export default function ChiSiamo() {
               </li>
               <li className="flex items-center">
                 <span className="text-blue-600 mr-2">✓</span>
-                <span>Rispetto per l'ambiente</span>
+                <span>Rispetto per l&#39;ambiente</span>
               </li>
             </ul>
           </div>

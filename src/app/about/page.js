@@ -46,8 +46,8 @@ export default function About() {
             <div>
               <h2 className="text-4xl font-bold text-gray-800 mb-6">I Nostri Valori</h2>
               <p className="text-gray-600 mb-4">
-                La nostra missione è fornire soluzioni tecnologiche all'avanguardia, 
-                garantendo efficienza energetica e rispetto per l'ambiente.
+                La nostra missione è fornire soluzioni tecnologiche all&#39;avanguardia, 
+                garantendo efficienza energetica e rispetto per l&#39;ambiente.
               </p>
               <ul className="space-y-4">
                 <motion.li 

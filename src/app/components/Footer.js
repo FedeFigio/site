@@ -13,10 +13,10 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Link Rapidi</h4>
             <ul className="space-y-2">
-              <li><a href="/" className="text-gray-400 hover:text-white transition duration-300">Home</a></li>
-              <li><a href="/servizi" className="text-gray-400 hover:text-white transition duration-300">Servizi</a></li>
-              <li><a href="/chi-siamo" className="text-gray-400 hover:text-white transition duration-300">Chi Siamo</a></li>
-              <li><a href="/progetti" className="text-gray-400 hover:text-white transition duration-300">Progetti</a></li>
+              <li><Link href="/" className="text-gray-400 hover:text-white transition duration-300">Home</Link></li>
+              <li><Link href="/servizi" className="text-gray-400 hover:text-white transition duration-300">Servizi</Link></li>
+              <li><Link href="/chi-siamo" className="text-gray-400 hover:text-white transition duration-300">Chi Siamo</Link></li>
+              <li><Link href="/progetti" className="text-gray-400 hover:text-white transition duration-300">Progetti</Link></li>
             </ul>
           </div>
 
@@ -48,3 +48,4 @@ export default function Footer() {
     </footer>
   );
 }
+import Link from 'next/link';
